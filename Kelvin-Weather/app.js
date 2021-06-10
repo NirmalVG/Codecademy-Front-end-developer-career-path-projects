@@ -6,4 +6,4 @@ const celsius = kelvin - 273;
 let fahrenheit = celsius * (9/5) + 32;
 //When we connvert from Celcius to Fahrenheit, we will get a decimal number
 fahrenheit = Math.floor(fahrenheit);
-console.log(`The temperature is ${fahrenheit} degrees Fahrenheit`)
+console.log(`The temperature is ${fahrenheit} degrees Fahrenheit`);
